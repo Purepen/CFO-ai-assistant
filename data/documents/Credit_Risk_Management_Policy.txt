@@ -1,0 +1,101 @@
+
+CREDIT RISK MANAGEMENT POLICY
+
+Effective Date: January 1, 2024
+Document Version: 3.0
+Regulatory Framework: CBN Prudential Guidelines, Basel III
+
+1. PURPOSE
+This policy establishes credit risk management framework in compliance with Central Bank of Nigeria (CBN) prudential guidelines and international best practices.
+
+2. SCOPE
+Applies to all lending activities including corporate loans, SME lending, retail credit, and trade finance.
+
+3. CREDIT APPROVAL LIMITS
+
+3.1 Individual Lending Limits
+- Up to ₦10,000,000: Branch Manager + Credit Officer
+- ₦10,000,001 - ₦50,000,000: Regional Credit Manager
+- ₦50,000,001 - ₦200,000,000: Head of Credit + CFO
+- ₦200,000,001 - ₦1,000,000,000: Executive Credit Committee
+- Above ₦1,000,000,000: Board Credit Committee
+
+3.2 Single Obligor Limit
+Maximum exposure to single borrower: 20% of shareholders' funds (per CBN regulation)
+
+3.3 Large Exposures
+Exposures above ₦500,000,000 require Board notification within 48 hours
+
+4. CREDIT ASSESSMENT CRITERIA
+
+4.1 Minimum Requirements
+- Credit bureau check (CRC report mandatory)
+- Financial statements (audited for corporate, 2 years minimum)
+- Collateral valuation by approved valuers
+- Cash flow analysis and debt service coverage ratio ≥ 1.25
+- Management assessment for corporate borrowers
+
+4.2 Prohibited Lending
+- Insider lending above 10% of shareholders' funds
+- Lending to entities on CBN blacklist
+- Unsecured lending above ₦5,000,000 without Executive approval
+
+5. COLLATERAL REQUIREMENTS
+
+5.1 Acceptable Collateral
+- Real estate (maximum LTV 60%)
+- Cash collateral and fixed deposits (100% coverage)
+- Quoted equity securities (maximum LTV 40%)
+- Bank guarantees from rated institutions
+- Domiciliation of cash flows
+
+5.2 Collateral Valuation
+- Real estate: Revaluation every 2 years
+- Securities: Market-to-market monthly
+- All valuations by CBN-approved valuers
+
+6. NON-PERFORMING LOANS (NPL)
+
+6.1 Classification
+- Past due 1-90 days: Watchlist
+- Past due 91-180 days: Substandard
+- Past due 181-360 days: Doubtful
+- Past due >360 days: Lost
+
+6.2 Provisioning (IFRS 9 Compliant)
+- Stage 1 (Performing): 1% provision
+- Stage 2 (Underperforming): 5% provision
+- Stage 3 (Non-performing): 50-100% provision
+
+6.3 NPL Management
+- NPL ratio target: Below 5% (CBN requirement)
+- Monthly NPL review committee
+- Recovery unit activation for loans past due >90 days
+
+7. CREDIT CONCENTRATION
+
+7.1 Sector Limits
+- Oil & Gas: Maximum 25% of total loan book
+- Real Estate & Construction: Maximum 20%
+- Manufacturing: Maximum 15%
+- SME: Minimum 10% (CBN directive)
+
+7.2 Geographic Concentration
+Maximum 40% exposure in any single state
+
+8. DOCUMENTATION REQUIREMENTS
+- Loan agreement (reviewed by legal)
+- Memorandum of deposit for collateral
+- Post-dated cheques (where applicable)
+- Personal/Corporate guarantee
+- Board resolution (for corporate borrowers)
+
+9. REPORTING
+- Monthly credit risk report to ALCO
+- Quarterly Board report on credit portfolio
+- Annual ICAAP submission to CBN
+- Daily large exposure reporting to CBN
+
+10. REVIEW AND COMPLIANCE
+Annual policy review by Board Risk Committee
+Internal audit quarterly review of compliance

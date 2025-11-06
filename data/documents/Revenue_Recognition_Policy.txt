@@ -1,0 +1,48 @@
+
+REVENUE RECOGNITION POLICY
+
+Effective Date: January 1, 2024
+Document Version: 2.1
+
+1. PURPOSE
+This policy establishes guidelines for recognizing revenue in accordance with GAAP and IFRS 15 standards.
+
+2. SCOPE
+Applies to all revenue-generating activities across all business units.
+
+3. GENERAL PRINCIPLES
+3.1 Revenue is recognized when control of goods or services transfers to the customer.
+3.2 Revenue must be measured at the transaction price agreed upon.
+
+4. SPECIFIC SCENARIOS
+
+4.1 Product Sales
+- Revenue recognized at point of delivery or shipment (depending on terms)
+- FOB shipping point: recognize at shipment
+- FOB destination: recognize at delivery
+
+4.2 Multi-Year Contracts
+- Revenue from multi-year contracts should be recognized ratably over the contract term
+- Upfront fees are deferred and recognized over the service period
+- Implementation fees recognized over the expected customer relationship period
+
+4.3 Subscription Services
+- Recognized on a straight-line basis over the subscription period
+- Monthly subscriptions: recognize monthly
+- Annual subscriptions: defer and recognize monthly over 12 months
+
+4.4 Bundled Products and Services
+- Allocate transaction price to each performance obligation
+- Standalone selling price used for allocation
+- Revenue recognized as each obligation is satisfied
+
+5. DOCUMENTATION REQUIREMENTS
+All revenue recognition must include:
+- Signed contract or purchase order
+- Evidence of delivery or service completion
+- Collection probability assessment
+
+6. APPROVAL REQUIREMENTS
+- Standard transactions: Department head approval
+- Non-standard terms: CFO approval required
+- Contracts > $1M: CFO and CEO approval required

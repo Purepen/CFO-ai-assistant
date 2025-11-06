@@ -1,0 +1,62 @@
+
+FINANCIAL CONTROLS AND INTERNAL AUDIT POLICY
+
+Effective Date: January 1, 2024
+Document Version: 2.0
+
+1. PURPOSE
+Establish internal controls to ensure accuracy, prevent fraud, and maintain compliance.
+
+2. SEGREGATION OF DUTIES
+
+2.1 Critical Functions (must be separated)
+- Authorization of transactions
+- Recording of transactions
+- Custody of assets
+- Reconciliation activities
+
+2.2 Key Control Points
+- No single person controls entire financial transaction
+- Dual signatures required for checks over $10,000
+- Monthly reconciliations by separate team
+
+3. APPROVAL MATRIX
+
+3.1 Purchase Orders
+- <$10,000: Manager approval
+- $10,000-$50,000: Director + Finance approval
+- >$50,000: VP + CFO approval
+
+3.2 Vendor Payments
+- All payments require 3-way match (PO, receipt, invoice)
+- ACH payments require dual approval
+- Wire transfers require CFO approval
+
+3.3 Payroll
+- Department heads approve timesheets
+- HR verifies changes
+- Finance processes payment
+- CFO reviews monthly variance reports
+
+4. BANK RECONCILIATIONS
+- Performed monthly within 10 days of month-end
+- Reviewed and signed by Finance Manager
+- All reconciling items resolved within 30 days
+
+5. FINANCIAL REPORTING CONTROLS
+- Monthly close process documented
+- Account reconciliations required
+- Management review of financial statements
+- Variance analysis for budget vs actual >10%
+
+6. FRAUD PREVENTION
+- Anonymous hotline for reporting concerns
+- Mandatory vacation policy for finance staff
+- Regular audit of high-risk areas
+- Background checks for finance positions
+
+7. COMPLIANCE REQUIREMENTS
+- SOX compliance for internal controls
+- Annual external audit
+- Quarterly internal audit reviews
+- Documentation retention: 7 years minimum

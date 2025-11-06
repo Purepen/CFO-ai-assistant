@@ -1,0 +1,69 @@
+
+CORPORATE INVESTMENT POLICY
+
+Effective Date: January 1, 2024
+Document Version: 1.5
+
+1. PURPOSE
+Govern the investment of corporate funds to ensure safety, liquidity, and optimal returns.
+
+2. INVESTMENT OBJECTIVES (in order of priority)
+2.1 Safety - Preserve capital
+2.2 Liquidity - Maintain adequate cash for operations
+2.3 Return - Maximize return within acceptable risk parameters
+
+3. AUTHORIZED INVESTMENTS
+
+3.1 Permitted Investments
+- Money market funds (AAA rated)
+- U.S. Treasury securities
+- U.S. Government agency securities
+- Certificates of deposit (FDIC insured)
+- Commercial paper (A1/P1 rated minimum)
+- Corporate bonds (A rated minimum)
+
+3.2 Prohibited Investments
+- Derivatives and futures
+- Commodities
+- Equity securities (except strategic investments)
+- Foreign currency speculation
+- Cryptocurrency
+
+4. INVESTMENT LIMITS
+
+4.1 Concentration Limits
+- Maximum 25% with single issuer (except U.S. Government)
+- Maximum 40% in commercial paper
+- Maximum 60% in corporate bonds
+
+4.2 Maturity Constraints
+- Average portfolio maturity: Maximum 180 days
+- No single investment >2 years maturity
+- Minimum 20% in overnight or next-day liquidity
+
+5. MINIMUM CREDIT RATINGS
+- Money Market Funds: AAA
+- Commercial Paper: A1/P1
+- Corporate Bonds: A or higher
+- Certificates of Deposit: Bank rating A or higher
+
+6. APPROVAL REQUIREMENTS
+
+6.1 Routine Investments (within policy)
+- <$5M: Treasurer approval
+- $5M-$20M: CFO approval
+- >$20M: CFO + CEO approval
+
+6.2 Non-Routine Investments (exceptions to policy)
+- Any amount: Board Finance Committee approval
+
+7. REPORTING REQUIREMENTS
+- Daily cash position report to CFO
+- Weekly investment portfolio summary
+- Monthly performance report to Board
+- Quarterly compliance certification
+
+8. REVIEW AND REBALANCING
+- Portfolio reviewed daily
+- Rebalancing as needed to maintain policy compliance
+- Annual policy review by Board Finance Committee

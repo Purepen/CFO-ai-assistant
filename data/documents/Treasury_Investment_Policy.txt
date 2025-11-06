@@ -1,0 +1,118 @@
+
+TREASURY AND INVESTMENT POLICY
+
+Effective Date: January 1, 2024
+Document Version: 2.5
+Regulatory Framework: CBN Guidelines, Basel III Liquidity Standards
+
+1. PURPOSE
+Govern treasury operations and investment activities to ensure liquidity, safety, and optimal returns while maintaining CBN compliance.
+
+2. INVESTMENT OBJECTIVES (Priority Order)
+2.1 Liquidity - Maintain adequate liquidity for operations
+2.2 Safety - Capital preservation
+2.3 Compliance - Meet all CBN requirements
+2.4 Returns - Maximize returns within acceptable risk
+
+3. LIQUIDITY REQUIREMENTS
+
+3.1 CBN Mandated Ratios
+- Liquidity Ratio: Minimum 30% of total deposits
+- Cash Reserve Ratio (CRR): As specified by CBN (currently 32.5%)
+- Loan-to-Deposit Ratio: Minimum 65% (CBN directive)
+
+3.2 Internal Limits
+- Maintain minimum ₦50 billion in liquid assets
+- Maximum 80% LDR (internal limit below CBN max of 100%)
+
+4. AUTHORIZED INVESTMENTS
+
+4.1 Permitted Instruments
+- Central Bank of Nigeria Treasury Bills
+- Federal Government of Nigeria Bonds
+- CBN Open Market Operations (OMO)
+- Bank placements (with rated institutions only)
+- Nigerian Treasury Bonds (NTBs)
+- State Government Bonds (AAA rated only)
+- Bankers Acceptances
+- Commercial Papers (A1 rating minimum)
+
+4.2 Prohibited Investments
+- Equity securities (except strategic investments with Board approval)
+- Real estate (except bank's own use)
+- Commodities and derivatives (except CBN-approved hedging)
+- Foreign currency speculation
+- Cryptocurrency and digital assets
+- Unrated corporate bonds
+
+5. INVESTMENT LIMITS
+
+5.1 Concentration Limits
+- Maximum 40% in FGN securities
+- Maximum 25% in CBN OMO
+- Maximum 20% in bank placements
+- Maximum 10% with any single counterparty (except CBN/FGN)
+- Maximum 15% in corporate instruments
+
+5.2 Maturity Limits
+- Average portfolio maturity: Maximum 180 days
+- No single investment >1 year (except FGN bonds)
+- Minimum 15% in overnight/next-day instruments
+
+6. FOREIGN EXCHANGE MANAGEMENT
+
+6.1 FX Position Limits
+- Net Open Position (NOP): Maximum 1% of shareholders' funds (per CBN)
+- Overnight NOP: Maximum 0.5% of shareholders' funds
+- Foreign currency assets must not exceed 125% of foreign currency liabilities
+
+6.2 FX Risk Management
+- Daily monitoring of FX exposures
+- Monthly FX committee review
+- Hedging permitted only through CBN-authorized instruments
+- FX forward contracts require CFO approval
+
+7. CREDIT RATINGS REQUIREMENTS
+
+7.1 Minimum Ratings for Investments
+- Bank Placements: Fitch/S&P A- or equivalent
+- Corporate Bonds: A rating minimum
+- State Bonds: AAA rating required
+- Commercial Paper: A1 rating required
+
+7.2 Rating Monitoring
+- Quarterly review of counterparty ratings
+- Immediate exit if rating falls below minimum
+- Monthly credit committee review
+
+8. APPROVAL AUTHORITY
+
+8.1 Investment Transactions
+- Up to ₦5 billion: Treasurer
+- ₦5 - ₦20 billion: Head of Treasury + CFO
+- ₦20 - ₦50 billion: ALCO approval
+- Above ₦50 billion: Board Finance Committee
+
+8.2 New Investment Categories
+Any investment type not listed requires Board approval
+
+9. REPORTING REQUIREMENTS
+
+9.1 Internal Reporting
+- Daily liquidity position to CFO
+- Weekly treasury report to ALCO
+- Monthly performance report to Board
+- Quarterly compliance certification
+
+9.2 Regulatory Reporting
+- Daily returns to CBN (liquidity, CRR, NOP)
+- Weekly sectoral allocation report
+- Monthly balance sheet returns
+- Quarterly ICAAP submission
+
+10. OPERATIONAL CONTROLS
+- Segregation of front office, middle office, back office
+- Dual approval for all transactions >₦1 billion
+- Daily mark-to-market valuation
+- Independent price verification
+- Monthly reconciliation with CBN records

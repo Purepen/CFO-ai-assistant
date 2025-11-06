@@ -1,0 +1,139 @@
+
+CAPITAL EXPENDITURE POLICY
+
+Effective Date: January 1, 2024
+Document Version: 2.0
+
+1. PURPOSE
+Establish guidelines for capital expenditure (CAPEX) planning, approval, and monitoring to ensure optimal resource allocation and regulatory compliance.
+
+2. SCOPE
+Applies to all capital expenditures including:
+- Branch expansion and renovation
+- IT infrastructure and software
+- Furniture, fixtures, and equipment
+- Building and property acquisitions
+- ATM and digital banking infrastructure
+
+3. DEFINITION OF CAPITAL EXPENDITURE
+Any expenditure >₦500,000 with useful life >1 year that:
+- Enhances asset value
+- Extends asset life
+- Improves operating efficiency
+
+4. APPROVAL THRESHOLDS
+
+4.1 Standard CAPEX
+- Up to ₦5,000,000: Department Head + Procurement
+- ₦5,000,001 - ₦25,000,000: Divisional Head + CFO
+- ₦25,000,001 - ₦100,000,000: Executive Committee (EXCO)
+- ₦100,000,001 - ₦500,000,000: Managing Director + CFO
+- Above ₦500,000,000: Board of Directors
+
+4.2 Branch Expansion/New Branches
+- Branch renovation: As per standard CAPEX above
+- New branch (greenfield): Board approval mandatory
+- Branch relocation: EXCO approval
+- Estimated cost per new branch: ₦80-150 million
+
+4.3 IT Infrastructure
+- Core banking upgrades: Board approval
+- Digital banking platforms: EXCO approval
+- Software licenses <₦10 million: IT Head + CFO
+- Cybersecurity investments: Expedited approval process
+
+5. CAPEX BUDGETING
+
+5.1 Annual Budget Process
+- CAPEX budget prepared by October (for next year)
+- Departmental submissions by September 30
+- CFO consolidation and review
+- Board approval by December 15
+
+5.2 Budget Allocation
+- Branch network: 35-40% of total CAPEX
+- IT and digital banking: 30-35%
+- Head office infrastructure: 10-15%
+- ATM and cash management: 10-15%
+- Others: 5-10%
+
+5.3 Budget Monitoring
+- Monthly variance reports
+- Quarterly reforecast
+- Any item exceeding budget by >10% requires re-approval
+
+6. JUSTIFICATION REQUIREMENTS
+
+6.1 Mandatory Documentation
+- Business case (including ROI analysis)
+- At least 3 vendor quotations
+- Technical specifications
+- Implementation timeline
+- Risk assessment
+- Environmental impact assessment (for buildings)
+
+6.2 ROI Requirements
+- Minimum IRR: 15% (or cost of capital + 3%)
+- Payback period: Maximum 5 years (3 years for IT projects)
+- NPV must be positive
+- Strategic projects may have exception with Board approval
+
+7. VENDOR SELECTION
+
+7.1 Procurement Process
+- >₦10 million: Formal tender process
+- >₦50 million: Open competitive bidding
+- Single source: Requires justification and CFO approval
+- Related party vendors: Board approval mandatory
+
+7.2 Vendor Requirements
+- Financial stability assessment
+- Technical capability evaluation
+- Reference checks
+- Compliance with local content requirements
+
+8. PROJECT IMPLEMENTATION
+
+8.1 Project Management
+- Project sponsor assigned (senior management)
+- Project manager from relevant department
+- Monthly steering committee meetings
+- Quarterly Board updates for major projects
+
+8.2 Payment Terms
+- Maximum 30% advance payment (with bank guarantee)
+- Milestone-based payments
+- 10% retention until warranty period ends
+- Final payment upon satisfactory completion
+
+9. ASSET CAPITALIZATION
+
+9.1 Capitalization Criteria
+- Asset cost includes: Purchase price, installation, shipping, taxes
+- Capitalize when asset is ready for use
+- Depreciation starts when asset is commissioned
+
+9.2 Depreciation Rates
+- Buildings: 2% per annum (50 years)
+- IT equipment: 25% per annum (4 years)
+- Furniture & fixtures: 10% per annum (10 years)
+- Motor vehicles: 20% per annum (5 years)
+- ATMs: 20% per annum (5 years)
+
+10. POST-IMPLEMENTATION REVIEW
+- PIR conducted within 6 months of project completion
+- Actual vs. projected benefits comparison
+- Lessons learned documentation
+- Findings presented to Board for projects >₦100 million
+
+11. DISPOSAL OF ASSETS
+
+11.1 Disposal Approval
+- Up to ₦5 million: CFO
+- ₦5-25 million: EXCO
+- Above ₦25 million: Board
+
+11.2 Disposal Process
+- Open bidding for assets >₦5 million
+- Fair market value assessment
+- Proceeds credited to General Reserve

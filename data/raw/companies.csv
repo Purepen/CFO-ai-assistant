@@ -1,0 +1,21 @@
+company_id,company_name,sector,market_cap_billions
+1,Apple Inc.,Technology,2800
+2,Microsoft Corp.,Technology,2400
+3,Amazon.com Inc.,Consumer,1500
+4,Alphabet Inc.,Technology,1700
+5,Meta Platforms,Technology,800
+6,Tesla Inc.,Automotive,650
+7,NVIDIA Corp.,Technology,1100
+8,Berkshire Hathaway,Financial,780
+9,JPMorgan Chase,Financial,450
+10,Johnson & Johnson,Healthcare,380
+11,Walmart Inc.,Retail,400
+12,Visa Inc.,Financial,520
+13,Procter & Gamble,Consumer,350
+14,Mastercard Inc.,Financial,390
+15,UnitedHealth Group,Healthcare,480
+16,Home Depot,Retail,320
+17,Bank of America,Financial,280
+18,Pfizer Inc.,Healthcare,260
+19,Coca-Cola Co.,Consumer,270
+20,PepsiCo Inc.,Consumer,240
