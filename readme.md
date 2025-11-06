@@ -239,19 +239,6 @@ python -m src.orchestrator
 **financial_ratios**
 - company_id, year, quarter, gross_margin, net_profit_margin, roe, roa, debt_to_equity, current_ratio, quick_ratio
 
-## 🤝 Contributing
-
-Contributions welcome! Areas for improvement:
-- Add more financial metrics
-- Implement caching for faster responses
-- Add authentication
-- Support for multiple databases
-- Advanced visualizations
-- Export reports to PDF/Excel
-
-## 📝 License
-
-MIT License - feel free to use for your projects!
 
 ## 🙋 Support
 
@@ -269,6 +256,4 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ using Claude (Anthropic), LangChain, and Streamlit**
-
-*Made for AI Engineers learning RAG and multi-agent systems*
+**Built using Claude (Anthropic), LangChain, and Streamlit**
